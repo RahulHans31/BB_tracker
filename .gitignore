@@ -1,0 +1,14 @@
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Optional local files
+pincode_flow.json
+*.har
+.env
