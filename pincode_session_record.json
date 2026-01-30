@@ -1,0 +1,1062 @@
+{
+  "recorded_at": "2026-01-30 17:04:25",
+  "page_url": "https://www.bigbasket.com/",
+  "cookies": [
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_bb_cda_sa_info",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "djIuY2RhX3NhLjEwLjIxNTMy"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "is_global",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "0"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332861,
+      "httpOnly": false,
+      "name": "_ga_FRRYG5VKHX",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GS2.1.s1769772844$o1$g1$t1769772861$j43$l0$h0"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1785324860,
+      "httpOnly": false,
+      "name": "_bb_aid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "\"MzAwNTY4ODQ5OQ==\""
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1772451260,
+      "httpOnly": true,
+      "name": "bm_s",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "YAAQXHBWuHsHFAecAQAA1tiuDgTAoQc310/WIc3F9TxlGH8EsG6+MoK63kzXkWyjCWaI1T+HiwNQamSbc1LhcXSQ1VkXyXx1Z4ongoNSulgUe/YmoHPXv9SF6Yy6nTP1ZNBw9k6IoezGBXbnZrPO0nPmSaX0xpTUxcYtsnX+nbgAjHmM9Id7XVZI7z8BkWCyefcaXkV7HjEaP953TVpSwy+/dd9mGZVrjEuRNPNR6lYkU6robm5ru+vCnx5dle4FDV9K0ll4qXEWdfhN6Qhek2q/09P3UDcwgFI/r3CXVSScAoEmVwP5//0SpooEIdpmYk6GRF3UdkKZ9he3e6b6EYg+/H3CI8d+18rxl63SDzxX4NGmVUgdXOCczRDe60jB3U1LWS4UVBeMuev6D1GTKDiVFL5s9vS93rKPVqbb54ZvHLKRTKrZ6Mjbz/dqM2K9vwgcel+mBANwfgQXWwlFHvSoZ09nXOR7qBerM8CMT6pPkqp0tnacO7zUCC3tVHXExYq5ynUSGVKS/4PyfHQJvtfpqGUqB7wr0fF/8gRSQL0tWODlwqBAA43JYXbX0kpJSVB5OydYRlVpJwwmIhT1n+zdXvNx"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1785324860,
+      "httpOnly": false,
+      "name": "_bb_cid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "18"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1785324860,
+      "httpOnly": false,
+      "name": "_bb_lat_long",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "MjguNDU1NDcyNnw3Ny4wMjE5MDE5"
+    },
+    {
+      "domain": "www.bigbasket.com",
+      "expiry": 1804332859,
+      "httpOnly": false,
+      "name": "ufi",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1777548861,
+      "httpOnly": false,
+      "name": "_fbp",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "fb.1.1769772844618.14410417834194706"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "httpOnly": false,
+      "name": "ts",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "2026-01-30%2017:04:21.672"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1801308862,
+      "httpOnly": false,
+      "name": "bigbasket.com",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "19e74b68-f190-41bd-939d-a2c4d6e27807"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1769772904,
+      "httpOnly": false,
+      "name": "_gat_UA-27455376-1",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1769859261,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.2.809007032.1769772844"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_dsid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "7427"
+    },
+    {
+      "domain": ".www.bigbasket.com",
+      "expiry": 1772364842,
+      "httpOnly": false,
+      "name": "bm_lso",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "FEBFB5A26450285BBFB4640CC9F7AB34E95FA1CAB4B57E767B70D481316B241B~YAAQXHBWuIoBFAecAQAA2nquDgYbXBmypqilfIONgph+9raW78SMQVNljum2tRFN3VIu/nzdVYBeiM8ZxrIBcVXZgix0SNCIonNTxyDrXccAs5J14z4EHZHDvNEmoCuNzgzUpayS1QZIdblDgbIDovq/bPOPd9iLt8hAyWdwmMdE9Vzbr3v9EcDQHzUW6YaHR0bknwK4ZIjtXJViOvXz0ZVy6875D3ADq2sGYT9Kdf1n8PB95W9i5UbSSlBkrilfkzyKfC6UV6HM09r7P3ozV803RExLZ4MvS+TEAYgZ7Q/QJ2QOfBfzSqL2Ed8EfuISotQ8Nvb/ymg4eF2O5MJ6/UkfTMxkBHLFbk4JoUd9NXAO/0mMvTeUhD7rmEeo43QYF/plmXk3ZosJ2ZU8eGohXOcpEydUVd9Qu1iX5Y2i8/m38HCwUvXUze+39VvDjaGD/VJx60g5PXJgoLRVVzhvctHKu+i8gRGHBZn/htM=~1769772842388"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1769776441,
+      "httpOnly": true,
+      "name": "bm_ss",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "ab8e18ef4e"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "bb2_enabled",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "true"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_bb_sa_ids",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "21532"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "is_subscribe_sa",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "0"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1769859241,
+      "httpOnly": false,
+      "name": "bm_so",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "FEBFB5A26450285BBFB4640CC9F7AB34E95FA1CAB4B57E767B70D481316B241B~YAAQXHBWuIoBFAecAQAA2nquDgYbXBmypqilfIONgph+9raW78SMQVNljum2tRFN3VIu/nzdVYBeiM8ZxrIBcVXZgix0SNCIonNTxyDrXccAs5J14z4EHZHDvNEmoCuNzgzUpayS1QZIdblDgbIDovq/bPOPd9iLt8hAyWdwmMdE9Vzbr3v9EcDQHzUW6YaHR0bknwK4ZIjtXJViOvXz0ZVy6875D3ADq2sGYT9Kdf1n8PB95W9i5UbSSlBkrilfkzyKfC6UV6HM09r7P3ozV803RExLZ4MvS+TEAYgZ7Q/QJ2QOfBfzSqL2Ed8EfuISotQ8Nvb/ymg4eF2O5MJ6/UkfTMxkBHLFbk4JoUd9NXAO/0mMvTeUhD7rmEeo43QYF/plmXk3ZosJ2ZU8eGohXOcpEydUVd9Qu1iX5Y2i8/m38HCwUvXUze+39VvDjaGD/VJx60g5PXJgoLRVVzhvctHKu+i8gRGHBZn/htM="
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "is_integrated_sa",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": "www.bigbasket.com",
+      "expiry": 1770982444,
+      "httpOnly": false,
+      "name": "adb",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "0"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_bb_bb2.0",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_is_bb1.0_supported",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "0"
+    },
+    {
+      "domain": "www.bigbasket.com",
+      "expiry": 1804332861,
+      "httpOnly": false,
+      "name": "jarvis-id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "a0007f0b-1346-418b-aedd-ee34af1e99c5"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_is_tobacco_enabled",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "isintegratedsa",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "true"
+    },
+    {
+      "domain": "www.bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "csrftoken",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "JL24IETZPdXy7uIUQkF2KDwkie5FsTQDl7wyFhw6g5oNXFAVykUcqOA4d9BUwyzu"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_dsevid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "7427"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_bhid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": ""
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_bb_pin_code",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "122001"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_nhid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "7427"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "xentrycontextid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "10"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_vid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "MTEwMjM1NzczMzk5ODQ2NjAzMA=="
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332861,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.2.369125474.1769772844"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "_bb_addressinfo",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "MjguNDU1NDcyNnw3Ny4wMjE5MDE5fE1vZGVsIFRvd24sIFNhbmdhaWx8MTIyMDAxfEd1cnVncmFtfDF8ZmFsc2V8dHJ1ZXx0cnVlfEJpZ2Jhc2tldGVlcg=="
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "jentrycontextid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "10"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "xentrycontext",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "bbnow"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332860,
+      "httpOnly": false,
+      "name": "x-channel",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "web"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_loid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": ""
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1769774661,
+      "httpOnly": false,
+      "name": "csurftoken",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "BWOp1A.MTEwMjM1NzczMzk5ODQ2NjAzMA==.1769772842871.dwDe3Xpmkqx/foO49T1wO7WtotAVujHNsmipvm3UxdQ="
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1777548844,
+      "httpOnly": false,
+      "name": "_gcl_au",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1.1.103218383.1769772844"
+    },
+    {
+      "domain": ".bigbasket.com",
+      "expiry": 1804332841,
+      "httpOnly": false,
+      "name": "_bb_locSrc",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "default"
+    }
+  ],
+  "ui_steps": [
+    {
+      "action": "send_keys",
+      "by": "xpath",
+      "inputValue": "<PIN>",
+      "value": "//input[@placeholder=\"Search for area or street name\"]"
+    },
+    {
+      "action": "click",
+      "by": "xpath",
+      "value": "//html[1]/body[1]/div[2]/div[1]/header[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/span[2]"
+    },
+    {
+      "action": "click",
+      "by": "xpath",
+      "value": "//html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/svg[1]"
+    },
+    {
+      "action": "click",
+      "by": "xpath",
+      "value": "//html[1]/body[1]/div[2]/div[1]/header[2]/div[1]/div[2]/div[1]"
+    },
+    {
+      "action": "send_keys",
+      "by": "xpath",
+      "inputValue": "<PIN>",
+      "value": "//input[@placeholder=\"Search for area or street name\"]"
+    },
+    {
+      "action": "click",
+      "by": "xpath",
+      "value": "//html[1]/body[1]/div[2]/div[1]/header[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]"
+    }
+  ],
+  "network_all_count": 1251,
+  "network_location_apis": [
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/category-tree",
+      "method": "GET",
+      "requestId": "62568.125"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/footer",
+      "method": "GET",
+      "requestId": "62568.179"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?i=1769772842524",
+      "method": "GET",
+      "requestId": "62568.181"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/app-data/?i=1769772842525",
+      "method": "GET",
+      "requestId": "62568.182"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/category-tree",
+      "status": 200,
+      "requestId": "62568.125"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/footer",
+      "status": 200,
+      "requestId": "62568.179"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?i=1769772842524",
+      "status": 200,
+      "requestId": "62568.181"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/app-data/?i=1769772842525",
+      "status": 200,
+      "requestId": "62568.182"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?send_door_info=true&send_address_set_by_user=true&i=1769772843042",
+      "method": "GET",
+      "requestId": "62568.421"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?send_door_info=true&send_address_set_by_user=true&i=1769772843042",
+      "status": 200,
+      "requestId": "62568.421"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/door-data/?i=1769772843241",
+      "method": "GET",
+      "requestId": "62568.428"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/door-data/?i=1769772843241",
+      "status": 200,
+      "requestId": "62568.428"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=132&token=8606b259-c7c4-46f9-b95c-01515f4056b3",
+      "method": "GET",
+      "requestId": "62568.1447"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=132&token=8606b259-c7c4-46f9-b95c-01515f4056b3",
+      "status": 200,
+      "requestId": "62568.1447"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=13200&token=46e3167f-fdc6-45b0-a094-9e7048199e66",
+      "method": "GET",
+      "requestId": "62568.1450"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=13200&token=46e3167f-fdc6-45b0-a094-9e7048199e66",
+      "status": 200,
+      "requestId": "62568.1450"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=13200&token=377579f8-8436-4b54-849f-773fe5d2d555",
+      "method": "GET",
+      "requestId": "62568.1452"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=13200&token=377579f8-8436-4b54-849f-773fe5d2d555",
+      "status": 200,
+      "requestId": "62568.1452"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=132001&token=92196d5e-4498-4e74-8a9f-4fe8423afe8a",
+      "method": "GET",
+      "requestId": "62568.1454"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=132001&token=92196d5e-4498-4e74-8a9f-4fe8423afe8a",
+      "status": 200,
+      "requestId": "62568.1454"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/details/?placeId=ChIJP3gDovlvDjkRQqAGPjyYwEw&token=8e2ce54a-33f5-4ce3-acd5-b37e8a3ba6bb&xArm=999&yArm=245",
+      "method": "GET",
+      "requestId": "62568.1456"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/details/?placeId=ChIJP3gDovlvDjkRQqAGPjyYwEw&token=8e2ce54a-33f5-4ce3-acd5-b37e8a3ba6bb&xArm=999&yArm=245",
+      "status": 200,
+      "requestId": "62568.1456"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/serviceable/?lat=29.687637&lng=76.9988669&send_all_serviceability=true",
+      "method": "GET",
+      "requestId": "62568.1457"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/serviceable/?lat=29.687637&lng=76.9988669&send_all_serviceability=true",
+      "status": 200,
+      "requestId": "62568.1457"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122&token=4a522a49-5cd9-4466-9489-fcdb545085a9",
+      "method": "GET",
+      "requestId": "62568.1459"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122&token=4a522a49-5cd9-4466-9489-fcdb545085a9",
+      "status": 200,
+      "requestId": "62568.1459"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=12200&token=2afb6812-0d1a-48ce-985e-9f3ce07385c6",
+      "method": "GET",
+      "requestId": "62568.1462"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=12200&token=2afb6812-0d1a-48ce-985e-9f3ce07385c6",
+      "status": 200,
+      "requestId": "62568.1462"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122001&token=bf7b1726-1319-4b54-ab96-5774d6fc8997",
+      "method": "GET",
+      "requestId": "62568.1464"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122001&token=bf7b1726-1319-4b54-ab96-5774d6fc8997",
+      "status": 200,
+      "requestId": "62568.1464"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122001&token=2d3c9b52-4472-4932-ac79-eb7c43686c84",
+      "method": "GET",
+      "requestId": "62568.1466"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/autocomplete/?inputText=122001&token=2d3c9b52-4472-4932-ac79-eb7c43686c84",
+      "status": 200,
+      "requestId": "62568.1466"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/places/v1/places/details/?placeId=ChIJm523QqkZDTkR06eT1PrbRxM&token=ddc43f64-0d5a-4a33-b2ca-6189960488a5&xArm=1043&yArm=237",
+      "method": "GET",
+      "requestId": "62568.1468"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/places/v1/places/details/?placeId=ChIJm523QqkZDTkR06eT1PrbRxM&token=ddc43f64-0d5a-4a33-b2ca-6189960488a5&xArm=1043&yArm=237",
+      "status": 200,
+      "requestId": "62568.1468"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/serviceable/?lat=28.4554726&lng=77.0219019&send_all_serviceability=true",
+      "method": "GET",
+      "requestId": "62568.1469"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/serviceable/?lat=28.4554726&lng=77.0219019&send_all_serviceability=true",
+      "status": 200,
+      "requestId": "62568.1469"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/category-tree",
+      "method": "GET",
+      "requestId": "62568.1592"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/footer",
+      "method": "GET",
+      "requestId": "62568.1646"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?i=1769772860930",
+      "method": "GET",
+      "requestId": "62568.1648"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/app-data/?i=1769772860930",
+      "method": "GET",
+      "requestId": "62568.1649"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/category-tree",
+      "status": 200,
+      "requestId": "62568.1592"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/footer",
+      "status": 200,
+      "requestId": "62568.1646"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?i=1769772860930",
+      "status": 200,
+      "requestId": "62568.1648"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/app-data/?i=1769772860930",
+      "status": 200,
+      "requestId": "62568.1649"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?send_door_info=true&send_address_set_by_user=true&i=1769772861302",
+      "method": "GET",
+      "requestId": "62568.1940"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v2/header/?send_door_info=true&send_address_set_by_user=true&i=1769772861302",
+      "status": 200,
+      "requestId": "62568.1940"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ui-svc/v1/door-data/?i=1769772861533",
+      "method": "GET",
+      "requestId": "62568.2224"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/ui-svc/v1/door-data/?i=1769772861533",
+      "status": 200,
+      "requestId": "62568.2224"
+    }
+  ],
+  "network_sample": [
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/",
+      "method": "GET",
+      "requestId": "E77C9EC0E3F700F4E3B7AB995219F600"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "E77C9EC0E3F700F4E3B7AB995219F600"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "E77C9EC0E3F700F4E3B7AB995219F600"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/",
+      "status": 200,
+      "requestId": "E77C9EC0E3F700F4E3B7AB995219F600"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250923_400.jpg",
+      "method": "GET",
+      "requestId": "62568.2"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250923_400.jpg",
+      "method": "GET",
+      "requestId": "62568.3"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250923_400.jpg",
+      "method": "GET",
+      "requestId": "62568.4"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250923_400.jpg",
+      "method": "GET",
+      "requestId": "62568.5"
+    },
+    {
+      "type": "request",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js",
+      "method": "GET",
+      "requestId": "62568.10"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/css/de47fb035a2812c2.css",
+      "method": "GET",
+      "requestId": "62568.11"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/34.fe7e40996d86a5cc.js",
+      "method": "GET",
+      "requestId": "62568.13"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/5030.9ddf5efd73d1f4c7.js",
+      "method": "GET",
+      "requestId": "62568.14"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/webpack-dd3d33f2e2717f6a.js",
+      "method": "GET",
+      "requestId": "62568.15"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/framework-6c17f08e07d1abc4.js",
+      "method": "GET",
+      "requestId": "62568.16"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/main-eeaf11dd18a466dd.js",
+      "method": "GET",
+      "requestId": "62568.17"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/pages/_app-db211c80d94381e4.js",
+      "method": "GET",
+      "requestId": "62568.18"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/4587-89daf5ea9a6d25af.js",
+      "method": "GET",
+      "requestId": "62568.19"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/4481-fe79ec330a0d6bd9.js",
+      "method": "GET",
+      "requestId": "62568.20"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/4315-d063229f55105aa7.js",
+      "method": "GET",
+      "requestId": "62568.21"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/4240-bd3f4fadf75425d5.js",
+      "method": "GET",
+      "requestId": "62568.22"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/9492-99ac278389d31d1c.js",
+      "method": "GET",
+      "requestId": "62568.23"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/9382-bc4cc8f3efca3f9e.js",
+      "method": "GET",
+      "requestId": "62568.24"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/2608-d7621f4e0100a000.js",
+      "method": "GET",
+      "requestId": "62568.25"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/5117-263209f2dcb48546.js",
+      "method": "GET",
+      "requestId": "62568.26"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/5198-4a2c1094bf76406c.js",
+      "method": "GET",
+      "requestId": "62568.27"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/2709-45c5f7968b132e79.js",
+      "method": "GET",
+      "requestId": "62568.28"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/260-ead648cf152f377b.js",
+      "method": "GET",
+      "requestId": "62568.29"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/1908-658b1d275b5d1d4c.js",
+      "method": "GET",
+      "requestId": "62568.30"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/3822-9c53111b8ca558aa.js",
+      "method": "GET",
+      "requestId": "62568.31"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/chunks/pages/index-112a94bc56e64f04.js",
+      "method": "GET",
+      "requestId": "62568.32"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/TiBvbC2dBTBqbHRDcdku3/_buildManifest.js",
+      "method": "GET",
+      "requestId": "62568.33"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bbassets.com/monsters-inc/static/_next/static/TiBvbC2dBTBqbHRDcdku3/_ssgManifest.js",
+      "method": "GET",
+      "requestId": "62568.34"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/bb2assets/flutter/bb-logo.svg",
+      "method": "GET",
+      "requestId": "62568.35"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.2"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.3"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.4"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.5"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.35"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "62568.2"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250923_400.jpg",
+      "status": 200,
+      "requestId": "62568.2"
+    },
+    {
+      "type": "request",
+      "url": "https://www.bigbasket.com/ZuFKFZ20pYXa2uGpmw/ptiumDOu1J/OCFLanRlDQE/QwZvZw1e/ZAUG?v=e0826156-6f9a-36ea-ed0c-e164a622b856",
+      "method": "GET",
+      "requestId": "62568.92"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.92"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "62568.3"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_bcd_m_bcd_250923_400.jpg",
+      "status": 200,
+      "requestId": "62568.3"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "62568.4"
+    },
+    {
+      "type": "request",
+      "url": "",
+      "method": "GET",
+      "requestId": "62568.10"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_health_suppliment_250923_400.jpg",
+      "status": 200,
+      "requestId": "62568.4"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "62568.92"
+    },
+    {
+      "type": "response",
+      "url": "",
+      "status": null,
+      "requestId": "62568.5"
+    },
+    {
+      "type": "response",
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250923_400.jpg",
+      "status": 200,
+      "requestId": "62568.5"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pincodes": ["122001" ,"560001" ,"110001" ,"400001"],
+  "use_browser": true,
+  "auto_pincode": true,
+  "telegram_bot_token": "8518415832:AAFqVHXno4oa3YMaH8E-UI5ps7T_HPg_7VY",
+  "telegram_chat_id": "-1003282452728",
+  "telegram_topic_id": "59345",
+  "telegram_error_chat_id": "7992845749",
+  "telegram_alert_when_any_in_stock": true,
+  "telegram_send_screenshot": true,
+  "product_urls": [
+    "https://www.bigbasket.com/pd/10000074/fresho-cauliflower-1-pc/",
+    "https://www.bigbasket.com/pd/40300424/super-saver-sona-masoori-raw-rice-26-kg-bag/"
+  ]
+}
